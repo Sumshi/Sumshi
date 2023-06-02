@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/ibnatumaya" target="blank"><img src="https://img.shields.io/twitter/follow/ibnatumaya?logo=twitter&style=for-the-badge" alt="ibnatumaya" /></a> </p>
 
-- 🔭 I’m currently working on **Simple shell c project**
+- 🔭 I’m currently working on **Building a simple bash shell using c**
 
-- 👯 I’m looking to collaborate on **any project c,python,linux etc**
+- 👯 I’m looking to collaborate on **any project c,python and linux etc**
 
-- 💬 Ask me about **C, python and shell programming**
+- 💬 Ask me about **C, Html, Css, python and Linux programming**
 
 - 📫 How to reach me **sumayasomow@gmail.com**
 
