@@ -1,6 +1,7 @@
-  <h1 align="center">Hi 👋, I'm Sumaya Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Sumaya Ahmed</h1>
 <h3 align="center">A passionate Software Engineer from kenya</h3>
-  # 💫 About Me:
+
+ # 💫 About Me:
 🔭 I’m currently working on Developing my coding skills<br>👯 I’m looking to collaborate on any project<br>💬 Ask me about Anything<br>📫 How to reach me sumayasomow@gmail.com<br>⚡ Fun fact am cool
 
 
