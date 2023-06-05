@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Sumaya Ahmed</h1>
-<h3 align="center">A passionate frontend developer from kenya</h3>
+<h3 align="center">A passionate Software Engineer from kenya</h3>
   # 💫 About Me:
 🔭 I’m currently working on Developing my coding skills<br>👯 I’m looking to collaborate on any project<br>💬 Ask me about Anything<br>📫 How to reach me sumayasomow@gmail.com<br>⚡ Fun fact am cool
 
@@ -14,8 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sumshi&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumshi&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact) -->
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=ibnatumaya)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<!--## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=ibnatumaya)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
