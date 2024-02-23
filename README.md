@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from kenya</h3>
 
  # 💫 About Me:
-🔭 I’m currently working on Developing my coding skills<br>👯 I’m looking to collaborate on any project<br>💬 Ask me about Anything<br>📫 How to reach me sumayasomow@gmail.com<br>⚡ Feel free to chat
+🔭 I’m currently Learning MERN stack<br>👯 I’m looking to collaborate on any MERN project<br>💬 Ask me about Anything<br>📫 How to reach me sumayasomow@gmail.com<br>⚡ Feel free to chat
 
 
 ## 🌐 Socials:
